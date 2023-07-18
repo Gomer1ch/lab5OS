@@ -1,0 +1,5 @@
+C:\Users\Gomerich\source\repos\LABA 5_2\x64\Debug\LABA 5_2.vcxproj.AssemblyReference.cache
+C:\Users\Gomerich\source\repos\LABA 5_2\x64\Debug\LABA 5_2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Gomerich\source\repos\LABA 5_2\x64\Debug\LABA 5_2.exe
+C:\Users\Gomerich\source\repos\LABA 5_2\x64\Debug\LABA52.MyForm.resources
+C:\Users\Gomerich\source\repos\LABA 5_2\x64\Debug\LABA 5_2.vcxproj.GenerateResource.cache
